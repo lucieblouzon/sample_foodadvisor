@@ -58,3 +58,7 @@ If an article is not related to an editor, no emails will be sent.
   - Setting the `publicationState` to Published will automatically publish the article (RBAC)
 
 Another component has been injected into the list view. For author users, a button allows them to automatically apply a filter `publicationState == Changes requested` so that authors can quickly see any articles not published yet that need changes. For editor users, a button allows them to automatically apply a filter `publicationState == In review` so that editors can quickly see any articles not published yet that need to be reviewed.
+
+
+
+TEST LBL
